@@ -60,7 +60,7 @@
         "@types/webtorrent": "^0.109.2",
         "@types/yamljs": "^0.2.31",
         "@types/yargs": "^17.0.3",
-        "concurrently": "^6.2.1",
+        "concurrently": "^7.3.0",
         "jest": "^27.2.2",
         "nodemon": "^2.0.13",
         "openapi-typescript": "^4.0.2",
